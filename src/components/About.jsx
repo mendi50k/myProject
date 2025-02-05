@@ -10,7 +10,7 @@ function AboutUs() {
       <h2>Our Project Managers</h2>
       <ul>
         <li><strong>Aviran:</strong> Oversees project strategy and ensures smooth delivery.</li>
-        <li><strong>Mendi:</strong> Manages team collaboration and drives success.</li>
+        <li><strong>Natalya:</strong> Manages team collaboration and drives success.</li>
       </ul>
     </div>
   );

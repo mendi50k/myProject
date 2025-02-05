@@ -4,7 +4,7 @@ function Footer() {
   return (
     <div className='divFooter'>
         <p>
-        Mendi Tal
+        Aviran & Natalya
         </p>
     </div>
   )
